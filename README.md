@@ -59,10 +59,13 @@ After preprocessing, there were 66775 patients whose records were kept for consi
 <p align = "justify"> or evaluation, receiver operating characteristic curve (ROC curve) was also made as shown in the figure. e can observe that the in traditional ML techniques, we got accuracy of around 72% whereas in boosting algorithms and neural network, we got 73% accuracy (a minor improvement). However, accuracy is not a reliable measure in healthcare domain due to a large difference in true negatives and false positives. The number of false positives must be minimized as much as possible as the impact due to false pitives is much more than impact due to true negatives.</p>
 
 <p align = "justify"> Hence, sensitivity and precision are much better measure than accuracy and specificity. Boosting algorithms tend to work better than traditional machine learning algorithms. In conclusion, it was observed that machine learning models were able to achieve around 70 percent score in balanced dataset. Overall, it can be noted that boosting algorithms and neural network will perform better. Some achieved decent score also hence, viable to use in prediction of CVD’s.</p>
-<img src="https://user-images.githubusercontent.com/43794593/154694323-4b22b120-2ff8-4553-95e2-a83817040c83.png" width=30% height=30%/>
+<img src="https://user-images.githubusercontent.com/43794593/154694323-4b22b120-2ff8-4553-95e2-a83817040c83.png" width=40% height=40%/>
 
 
-
+#### Team Members:<br/>
+1. Shreya Goel
+2. Richa Dwivedi
+3. Pruthivi Raj Behera
 
 
 
